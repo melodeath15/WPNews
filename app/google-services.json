@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "600767670945",
+    "firebase_url": "https://tfiquiz-46494.firebaseio.com",
+    "project_id": "tfiquiz-46494",
+    "storage_bucket": "tfiquiz-46494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600767670945:android:2744eaed135628fc",
+        "android_client_info": {
+          "package_name": "com.melodic.wpnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600767670945-q7c1krq7uct1tu5v089cecla8tnkksll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.melodic.wpnews",
+            "certificate_hash": "ce53bc12aff5bc5ab015a678cf8483746c02ee5f"
+          }
+        },
+        {
+          "client_id": "600767670945-ohp5rs3ffetr1alrd5v3r4b4pdvfftm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQEBU-06u5gmXE9TfompZnhY4TJSxrSA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600767670945-ohp5rs3ffetr1alrd5v3r4b4pdvfftm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600767670945:android:3ad5a397bcc51a3e",
+        "android_client_info": {
+          "package_name": "com.sell.melodic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600767670945-rh7l6plkdrfk8m21jde8eqlm46v171v6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sell.melodic",
+            "certificate_hash": "ce53bc12aff5bc5ab015a678cf8483746c02ee5f"
+          }
+        },
+        {
+          "client_id": "600767670945-ohp5rs3ffetr1alrd5v3r4b4pdvfftm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQEBU-06u5gmXE9TfompZnhY4TJSxrSA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600767670945-ohp5rs3ffetr1alrd5v3r4b4pdvfftm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
